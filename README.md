@@ -27,3 +27,6 @@ This dataset contains job postings from Glassdoor.com from 2017 with the followi
 | Column name | Description                                         |
 | ----------- | --------------------------------------------------- |
 | job_id      | The unique identifier for the job posting (Numeric) |
+
+### Project Link
+https://github.com/saksham1236/Data-Salary-Analysis/blob/main/Saksham-Tandon-DataScience-FinalProject.ipynb
